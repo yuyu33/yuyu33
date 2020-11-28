@@ -1,4 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuyu33&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyu33&theme=dracula)
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
